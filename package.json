@@ -1,6 +1,6 @@
 {
   "name": "suggestion-service",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Suggestion Service",
   "main": "./lib/index.js",
   "types": "./src/index.ts",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com/common-ts/suggestion"
+    "url": "git@github.com/core-ts/suggestion"
   },
   "keywords": [
     "suggestion"
